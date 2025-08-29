@@ -4,7 +4,7 @@ This repository contains C programming tasks completed during my **virtual inter
 
 ---
 
-## 📘 Task 1: Library Management System (`task1.c`)
+## 📘 Task 1: Library Management System (`task1.cpp`)
 
 A console-based library system that allows:
 - Adding books  
@@ -16,7 +16,7 @@ Data is stored in a file (`library.txt`) so it persists between runs.
 
 ---
 
-## 🔐 Task 2: Vigenère Cipher Tool (`task2.c`)
+## 🔐 Task 2: Vigenère Cipher Tool (`task2.cpp`)
 
 A simple encryption and decryption program using the **Vigenère Cipher**.  
 
@@ -27,7 +27,7 @@ Features:
 
 ---
 
-## ➗ Task 3: Quadratic Equation Solver (`task3.c`)
+## ➗ Task 3: Quadratic Equation Solver (`task3.cpp`)
 
 A program that solves quadratic equations of the form:
 
